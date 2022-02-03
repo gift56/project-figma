@@ -1,1 +1,2 @@
-Working on figma 
+Working on figma
+adding section 7 
