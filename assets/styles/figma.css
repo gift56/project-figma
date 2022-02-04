@@ -388,5 +388,8 @@ img.lines {
     background-color: #fff;
     cursor: pointer;
 }
-
+.input-area{
+    display: flex;
+    justify-content: center;
+}
 

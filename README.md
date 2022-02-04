@@ -1,5 +1,6 @@
 Working on figma
-adding section 7
-Completed section 7 
+adding section 6
+Completed section 6 
 Work in Progress
 Made some adjustment
+completed section 7
