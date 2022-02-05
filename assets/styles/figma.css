@@ -400,6 +400,7 @@ footer{
     min-width: 100%;
     justify-content: space-evenly;
     align-items: center;
+    margin-bottom: 5vh;
 }
 .listing-links8{
     display: flex;
@@ -429,4 +430,12 @@ footer li{
     padding-left: 2vw;
     line-height: 0px;
 }
-
+.last-page{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3vh 12vw;
+    background-color:#B0916E;
+    margin-bottom: 4vh;
+    color: #fff;
+}
